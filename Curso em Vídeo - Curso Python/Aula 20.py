@@ -93,6 +93,7 @@ maior(6)
 maior()
 
 #---------------------------------------------------------
+"""
 
 def sorteia( lista ):
 
@@ -112,4 +113,3 @@ sorteia(lista_random)
 print(f'{lista_random}')
 somar_pares(lista_random)
 
-"""
