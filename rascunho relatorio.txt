@@ -1,0 +1,11 @@
+para o tsp2 com algoritmo Forca Bruta esperei em torno de 1h, quando começou a chegar perto 
+desse limite, meu computador ficou com tela preta, porém, bem antes disso, lá pelos 20min de
+execução, já não conseguia mover o cursor
+
+no código utilizei generators, basicamente para ir gerando uma permutação por vez, assim
+podendo fazer os cálculos necessários para obter os valores das arestas e o somatório
+dessa permutação atual. Mesmo assim, não consegui executar todas as possibilidades, mesmo 
+fixando o inicio ao vetor 0 e tendo (n-1)! permutações
+
+
+*A fazer: estimar 5-10 minutos e retornar oq o código me enviar. fazia uma comparação de tempo sempre no início do loop
